@@ -29,6 +29,7 @@ A machine (car) that can move on its own and follow a designated line (of black 
 
 ## Technologies
 * C/C++
+* IDE: Arduino
 
 ## Installation
 1. Initialize Git <br />

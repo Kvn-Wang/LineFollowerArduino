@@ -24,7 +24,7 @@ A machine (car) that can move on its own and follow a designated line (of black 
  - Rotors x4 <br />
  - L298N sensor <br />
  - Array of sensors (6) <br />
- - 2 ultrasound sensor <br />
+ - 2 ultrasound sensor HC-SR04 <br />
  - Battery x8 <br />
 
 ## Technologies

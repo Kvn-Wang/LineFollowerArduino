@@ -26,7 +26,8 @@ A machine (car) that can move on its own and follow a designated line (of black 
  - Array of sensors (6) <br />
  - 2 ultrasound sensor HC-SR04 <br />
  - Battery x8 <br />
-
+ - 3D Printer <br />
+ 
 ## Technologies
 * C/C++
 * IDE: Arduino
